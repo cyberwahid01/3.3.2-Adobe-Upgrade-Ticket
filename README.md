@@ -23,7 +23,7 @@ This section outlines a hypothetical scenario in which our End-User Karen Doe ha
 
 <h2>Installation, Setup, Resource Setup, Executing Functions</h2>
 
-1. Below I have created a ticket as our End-User Karen Doe. The main features of the ticket we can observe before changing a couple of features are the priority level which is normal, it is assigned to the suppport department, it is currently unassigned any agents and has a default SLA Plan of 18 hours. The End-User Karen has stated "adobe software not working for employees in the accounting department."
+1. Below I have created a ticket as our End-User Karen Doe. The main features of the ticket we can observe before changing a couple of features are the priority level which is normal, it is assigned to the support department, it is currently not assigned to any agents and has a default SLA Plan of 18 hours. The End-User Karen has stated "adobe software not working for employees in the accounting department."
 </p>
 <br />
 <p>

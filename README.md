@@ -4,6 +4,8 @@
 
 <h1>Ticket Resolutions: Adobe Upgrade Ticket 🪟</h1>
 This section outlines a hypothetical scenario in which our End-User Karen Doe has submitted a ticket where the Adobe Software in the Accounting Department has stopped working. I have structured this section so we can see the Ticket Thread as a series of events which include changing the properties of the Ticket in the beginning to the conversation thread with the End-User to the solution of the ticket. 
+
+(Link Back to Main Project Contents Page is at the Bottom of this Repo)
 <h2>Environments and Technologies Used</h2>
 
 - Lenovo Ideapad 5 Pro 16gb AMD Ryzen 7
@@ -39,3 +41,4 @@ In the conversation thread we can see the initial reply from our Agent John Doe 
 <img src="https://imgur.com/mzAGn1W.png" alt="Image"/>
 </p>
 <p>
+LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
